@@ -1,0 +1,1 @@
+pyinstaller -F -w --icon=icon.ico novelGetter.py --disable-windowed-traceback  --add-data "assets;assets" --splash new.png
