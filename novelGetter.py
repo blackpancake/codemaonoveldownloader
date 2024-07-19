@@ -802,7 +802,7 @@ class App:
     def show_softinfo(self, event=None):
         mBox.showinfo(
             '软件信息',
-            '版本号1.0.9(不稳定)\n2024/7/19制作完成\n作者：煤黑烧饼\n仅供学习交流使用。\nLICENSE: Apache License 2.0'
+            '版本号1.0.9\n2024/7/19制作完成\n作者：煤黑烧饼\n仅供学习交流使用。\nLICENSE: Apache License 2.0'
         )
 
 
